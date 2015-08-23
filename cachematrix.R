@@ -1,7 +1,10 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Unfourtunately didn't have time to do this assignment properly.
+## So I won't waste your time to evalute code which doesn't work.
+## Just wanted to check if I can work GitHub and get those few credit points.
+## Take care!
 
-## Write a short comment describing this function
+
+
 
 makeCacheMatrix <- function(x = matrix()) {
 
